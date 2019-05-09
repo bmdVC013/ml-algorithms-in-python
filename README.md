@@ -1,7 +1,7 @@
 # Machine Learning Algorithms in Python
 
 This repository is cover two topic:
-+ *My Solution for Coursera/Stanford Machine Learning course assignment in Python* :white_check_mark
++ *My Solution for Coursera/Stanford Machine Learning course assignment in Python* :white_check_mark:
 + *Build Essentials of Machine Learning Algorithms with Python from Scratch* :coffee:
 
 ## Contents
